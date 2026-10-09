@@ -14,7 +14,6 @@
 
 - 🔭 Focusing on **Backend Development**, **Software Architecture**, and **Computer Science Fundamentals**
 - 💻 Core focus: **Java**, **Spring Framework**, and **Algorithmic Problem Solving**
-- 🧠 Regularly solving algorithmic challenges on [LeetCode](https://leetcode.com/u/mavluda-r/)
 - 🎯 Lifelong learner committed to writing clean, maintainable, and scalable code
 
 ---
